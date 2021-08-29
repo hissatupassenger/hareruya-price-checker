@@ -1,0 +1,479 @@
+id	set_type	short_name	name_en	name_ja	logo_image_path	released_at	created_at	updated_at
+1	expansion	stx	Strixhaven: School of Mages		/img/expansion/stx.jpg	2021-04-23	2021-06-24 09:42:11.405833	2021-06-24 09:42:11.463766
+2	masterpiece	sta	Strixhaven Mystical Archive		/img/expansion/sta.jpg	2021-04-23	2021-06-24 09:42:11.405981	2021-06-24 09:42:11.463818
+3	commander	c21	Commander 2021		/img/expansion/c21.jpg	2021-04-23	2021-06-24 09:42:11.406105	2021-06-24 09:42:11.463858
+4	masters	tsr	Time Spiral Remastered		/img/expansion/tsr.jpg	2021-03-19	2021-06-24 09:42:11.406223	2021-06-24 09:42:11.463896
+5	promo	pkhc	Kaldheim Commander Promos		/img/expansion/pkhc.jpg	2021-02-05	2021-06-24 09:42:11.406338	2021-06-24 09:42:11.463932
+6	promo	pkhm	Kaldheim Promos		/img/expansion/pkhm.jpg	2021-02-05	2021-06-24 09:42:11.406460	2021-06-24 09:42:11.463969
+7	expansion	khm	Kaldheim		/img/expansion/khm.jpg	2021-02-05	2021-06-24 09:42:11.406572	2021-06-24 09:42:11.464009
+8	commander	khc	Kaldheim Commander		/img/expansion/khc.jpg	2021-02-05	2021-06-24 09:42:11.406681	2021-06-24 09:42:11.464051
+9	promo	pl21	2021 Lunar New Year		/img/expansion/pl21.jpg	2021-01-25	2021-06-24 09:42:11.406789	2021-06-24 09:42:11.464086
+10	promo	j21	Judge Gift Cards 2021		/img/expansion/j21.jpg	2021-01-01	2021-06-24 09:42:11.406898	2021-06-24 09:42:11.464122
+11	from_the_vault	cc1	Commander Collection: Green		/img/expansion/cc1.jpg	2020-12-04	2021-06-24 09:42:11.407008	2021-06-24 09:42:11.464157
+12	draft_innovation	cmr	Commander Legends		/img/expansion/cmr.jpg	2020-11-20	2021-06-24 09:42:11.407116	2021-06-24 09:42:11.464192
+13	masters	plist	The List		/img/expansion/plist.jpg	2020-09-26	2021-06-24 09:42:11.407224	2021-06-24 09:42:11.464228
+14	promo	pznr	Zendikar Rising Promos		/img/expansion/pznr.jpg	2020-09-25	2021-06-24 09:42:11.407330	2021-06-24 09:42:11.464263
+15	commander	znc	Zendikar Rising Commander		/img/expansion/znc.jpg	2020-09-25	2021-06-24 09:42:11.407436	2021-06-24 09:42:11.464299
+16	expansion	znr	Zendikar Rising		/img/expansion/znr.jpg	2020-09-25	2021-06-24 09:42:11.407542	2021-06-24 09:42:11.464334
+17	masterpiece	zne	Zendikar Rising Expeditions		/img/expansion/zne.jpg	2020-09-25	2021-06-24 09:42:11.407942	2021-06-24 09:42:11.464369
+18	masters	2xm	Double Masters		/img/expansion/2xm.jpg	2020-08-07	2021-06-24 09:42:11.408115	2021-06-24 09:42:11.464404
+19	draft_innovation	jmp	Jumpstart		/img/expansion/jmp.jpg	2020-07-17	2021-06-24 09:42:11.408248	2021-06-24 09:42:11.464439
+20	promo	pm21	Core Set 2021 Promos		/img/expansion/pm21.jpg	2020-07-03	2021-06-24 09:42:11.408372	2021-06-24 09:42:11.464474
+21	core	m21	Core Set 2021		/img/expansion/m21.jpg	2020-07-03	2021-06-24 09:42:11.408492	2021-06-24 09:42:11.464511
+22	spellbook	ss3	Signature Spellbook: Chandra		/img/expansion/ss3.jpg	2020-06-26	2021-06-24 09:42:11.408610	2021-06-24 09:42:11.464549
+23	box	slu	Secret Lair: Ultimate Edition		/img/expansion/slu.jpg	2020-05-29	2021-06-24 09:42:11.408736	2021-06-24 09:42:11.464585
+24	promo	plgs	Love Your LGS		/img/expansion/plgs.jpg	2020-05-18	2021-06-24 09:42:11.408851	2021-06-24 09:42:11.464621
+25	promo	piko	Ikoria: Lair of Behemoths Promos		/img/expansion/piko.jpg	2020-04-24	2021-06-24 09:42:11.408963	2021-06-24 09:42:11.464657
+26	expansion	iko	Ikoria: Lair of Behemoths		/img/expansion/iko.jpg	2020-04-24	2021-06-24 09:42:11.409074	2021-06-24 09:42:11.464692
+27	commander	c20	Commander 2020		/img/expansion/c20.jpg	2020-04-17	2021-06-24 09:42:11.409185	2021-06-24 09:42:11.464728
+28	masters	fmb1	Mystery Booster Retail Edition Foils		/img/expansion/fmb1.jpg	2020-03-08	2021-06-24 09:42:11.409295	2021-06-24 09:42:11.464763
+29	funny	und	Unsanctioned		/img/expansion/und.jpg	2020-02-29	2021-06-24 09:42:11.409405	2021-06-24 09:42:11.464799
+30	promo	pthb	Theros Beyond Death Promos		/img/expansion/pthb.jpg	2020-01-24	2021-06-24 09:42:11.409517	2021-06-24 09:42:11.464834
+31	expansion	thb	Theros Beyond Death		/img/expansion/thb.jpg	2020-01-24	2021-06-24 09:42:11.409628	2021-06-24 09:42:11.464870
+32	promo	j20	Judge Gift Cards 2020		/img/expansion/j20.jpg	2020-01-01	2021-06-24 09:42:11.409739	2021-06-24 09:42:11.464906
+33	promo	pf20	MagicFest 2020		/img/expansion/pf20.jpg	2020-01-01	2021-06-24 09:42:11.409849	2021-06-24 09:42:11.464944
+34	box	sld	Secret Lair Drop		/img/expansion/sld.jpg	2019-12-02	2021-06-24 09:42:11.409960	2021-06-24 09:42:11.464980
+35	box	gn2	Game Night 2019		/img/expansion/gn2.jpg	2019-11-15	2021-06-24 09:42:11.410070	2021-06-24 09:42:11.465015
+36	masters	mb1	Mystery Booster		/img/expansion/mb1.jpg	2019-11-07	2021-06-24 09:42:11.410181	2021-06-24 09:42:11.465050
+37	promo	peld	Throne of Eldraine Promos		/img/expansion/peld.jpg	2019-10-04	2021-06-24 09:42:11.410290	2021-06-24 09:42:11.465086
+38	expansion	eld	Throne of Eldraine		/img/expansion/eld.jpg	2019-10-04	2021-06-24 09:42:11.410400	2021-06-24 09:42:11.465121
+39	commander	c19	Commander 2019		/img/expansion/c19.jpg	2019-08-23	2021-06-24 09:42:11.410513	2021-06-24 09:42:11.465157
+40	promo	ps19	San Diego Comic-Con 2019		/img/expansion/ps19.jpg	2019-07-18	2021-06-24 09:42:11.410623	2021-06-24 09:42:11.465192
+41	promo	ppp1	M20 Promo Packs		/img/expansion/ppp1.jpg	2019-07-12	2021-06-24 09:42:11.410734	2021-06-24 09:42:11.465227
+42	promo	pm20	Core Set 2020 Promos		/img/expansion/pm20.jpg	2019-07-12	2021-06-24 09:42:11.410843	2021-06-24 09:42:11.465262
+43	core	m20	Core Set 2020		/img/expansion/m20.jpg	2019-07-12	2021-06-24 09:42:11.410954	2021-06-24 09:42:11.465297
+44	spellbook	ss2	Signature Spellbook: Gideon		/img/expansion/ss2.jpg	2019-06-28	2021-06-24 09:42:11.411064	2021-06-24 09:42:11.465333
+45	promo	pmh1	Modern Horizons Promos		/img/expansion/pmh1.jpg	2019-06-14	2021-06-24 09:42:11.411173	2021-06-24 09:42:11.465368
+46	draft_innovation	mh1	Modern Horizons		/img/expansion/mh1.jpg	2019-06-14	2021-06-24 09:42:11.411283	2021-06-24 09:42:11.465403
+47	promo	pwar	War of the Spark Promos		/img/expansion/pwar.jpg	2019-05-03	2021-06-24 09:42:11.411392	2021-06-24 09:42:11.465438
+48	expansion	war	War of the Spark		/img/expansion/war.jpg	2019-05-03	2021-06-24 09:42:11.411502	2021-06-24 09:42:11.465475
+49	promo	j19	Judge Gift Cards 2019		/img/expansion/j19.jpg	2019-04-10	2021-06-24 09:42:11.411629	2021-06-24 09:42:11.465511
+50	promo	prw2	RNA Ravnica Weekend		/img/expansion/prw2.jpg	2019-02-16	2021-06-24 09:42:11.411742	2021-06-24 09:42:11.465547
+51	box	gk2	RNA Guild Kit		/img/expansion/gk2.jpg	2019-02-15	2021-06-24 09:42:11.411851	2021-06-24 09:42:11.465583
+52	promo	prna	Ravnica Allegiance Promos		/img/expansion/prna.jpg	2019-01-25	2021-06-24 09:42:11.411967	2021-06-24 09:42:11.465618
+53	expansion	rna	Ravnica Allegiance		/img/expansion/rna.jpg	2019-01-25	2021-06-24 09:42:11.412079	2021-06-24 09:42:11.465653
+54	promo	pf19	MagicFest 2019		/img/expansion/pf19.jpg	2019-01-01	2021-06-24 09:42:11.412189	2021-06-24 09:42:11.465688
+55	planechase	opca	Planechase Anthology Planes		/img/expansion/opca.jpg	2018-12-25	2021-06-24 09:42:11.412298	2021-06-24 09:42:11.465723
+56	masterpiece	puma	Ultimate Box Topper		/img/expansion/puma.jpg	2018-12-07	2021-06-24 09:42:11.412408	2021-06-24 09:42:11.465758
+57	masters	uma	Ultimate Masters		/img/expansion/uma.jpg	2018-12-07	2021-06-24 09:42:11.412518	2021-06-24 09:42:11.465793
+58	box	gnt	Game Night		/img/expansion/gnt.jpg	2018-11-16	2021-06-24 09:42:11.412627	2021-06-24 09:42:11.465831
+59	box	g18	M19 Gift Pack		/img/expansion/g18.jpg	2018-11-16	2021-06-24 09:42:11.412737	2021-06-24 09:42:11.465866
+60	promo	prwk	GRN Ravnica Weekend		/img/expansion/prwk.jpg	2018-11-09	2021-06-24 09:42:11.412847	2021-06-24 09:42:11.465901
+61	box	gk1	GRN Guild Kit		/img/expansion/gk1.jpg	2018-11-02	2021-06-24 09:42:11.412956	2021-06-24 09:42:11.465936
+62	promo	pgrn	Guilds of Ravnica Promos		/img/expansion/pgrn.jpg	2018-10-05	2021-06-24 09:42:11.413065	2021-06-24 09:42:11.465971
+63	expansion	grn	Guilds of Ravnica		/img/expansion/grn.jpg	2018-10-05	2021-06-24 09:42:11.413175	2021-06-24 09:42:11.466006
+64	masterpiece	med	Mythic Edition		/img/expansion/med.jpg	2018-10-05	2021-06-24 09:42:11.413284	2021-06-24 09:42:11.466041
+65	commander	c18	Commander 2018		/img/expansion/c18.jpg	2018-08-09	2021-06-24 09:42:11.413394	2021-06-24 09:42:11.466077
+66	promo	ps18	San Diego Comic-Con 2018		/img/expansion/ps18.jpg	2018-07-19	2021-06-24 09:42:11.413503	2021-06-24 09:42:11.466112
+67	promo	pm19	Core Set 2019 Promos		/img/expansion/pm19.jpg	2018-07-13	2021-06-24 09:42:11.413613	2021-06-24 09:42:11.466147
+68	promo	pss3	M19 Standard Showdown		/img/expansion/pss3.jpg	2018-07-13	2021-06-24 09:42:11.413722	2021-06-24 09:42:11.466182
+69	core	m19	Core Set 2019		/img/expansion/m19.jpg	2018-07-13	2021-06-24 09:42:11.413831	2021-06-24 09:42:11.466217
+70	duel_deck	gs1	Global Series Jiang Yanggu & Mu Yanling		/img/expansion/gs1.jpg	2018-06-22	2021-06-24 09:42:11.413941	2021-06-24 09:42:11.466252
+71	spellbook	ss1	Signature Spellbook: Jace		/img/expansion/ss1.jpg	2018-06-15	2021-06-24 09:42:11.414050	2021-06-24 09:42:11.466287
+72	promo	pbbd	Battlebond Promos		/img/expansion/pbbd.jpg	2018-06-08	2021-06-24 09:42:11.414158	2021-06-24 09:42:11.466322
+73	commander	cm2	Commander Anthology Volume II		/img/expansion/cm2.jpg	2018-06-08	2021-06-24 09:42:11.414268	2021-06-24 09:42:11.466357
+74	draft_innovation	bbd	Battlebond		/img/expansion/bbd.jpg	2018-06-08	2021-06-24 09:42:11.414379	2021-06-24 09:42:11.466394
+75	promo	pdom	Dominaria Promos		/img/expansion/pdom.jpg	2018-04-27	2021-06-24 09:42:11.414488	2021-06-24 09:42:11.466429
+76	expansion	dom	Dominaria		/img/expansion/dom.jpg	2018-04-27	2021-06-24 09:42:11.414598	2021-06-24 09:42:11.466464
+77	duel_deck	ddu	Duel Decks: Elves vs. Inventors		/img/expansion/ddu.jpg	2018-04-06	2021-06-24 09:42:11.414707	2021-06-24 09:42:11.466596
+78	masters	a25	Masters 25		/img/expansion/a25.jpg	2018-03-16	2021-06-24 09:42:11.414817	2021-06-24 09:42:11.466709
+79	promo	plny	2018 Lunar New Year		/img/expansion/plny.jpg	2018-02-16	2021-06-24 09:42:11.414925	2021-06-24 09:42:11.466748
+80	promo	pnat	Nationals Promos		/img/expansion/pnat.jpg	2018-01-25	2021-06-24 09:42:11.415035	2021-06-24 09:42:11.466785
+81	promo	prix	Rivals of Ixalan Promos		/img/expansion/prix.jpg	2018-01-19	2021-06-24 09:42:11.415145	2021-06-24 09:42:11.466821
+82	expansion	rix	Rivals of Ixalan		/img/expansion/rix.jpg	2018-01-19	2021-06-24 09:42:11.415256	2021-06-24 09:42:11.466857
+83	promo	j18	Judge Gift Cards 2018		/img/expansion/j18.jpg	2018-01-01	2021-06-24 09:42:11.415365	2021-06-24 09:42:11.466898
+84	promo	f18	Friday Night Magic 2018		/img/expansion/f18.jpg	2017-12-27	2021-06-24 09:42:11.415475	2021-06-24 09:42:11.466934
+85	promo	pust	Unstable Promos		/img/expansion/pust.jpg	2017-12-08	2021-06-24 09:42:11.415598	2021-06-24 09:42:11.466970
+86	funny	ust	Unstable		/img/expansion/ust.jpg	2017-12-08	2021-06-24 09:42:11.415789	2021-06-24 09:42:11.467006
+87	from_the_vault	v17	From the Vault: Transform		/img/expansion/v17.jpg	2017-11-24	2021-06-24 09:42:11.415958	2021-06-24 09:42:11.467042
+88	promo	pxtc	XLN Treasure Chest		/img/expansion/pxtc.jpg	2017-11-24	2021-06-24 09:42:11.416073	2021-06-24 09:42:11.467078
+89	box	e02	Explorers of Ixalan		/img/expansion/e02.jpg	2017-11-24	2021-06-24 09:42:11.416186	2021-06-24 09:42:11.467113
+90	masters	ima	Iconic Masters		/img/expansion/ima.jpg	2017-11-17	2021-06-24 09:42:11.416298	2021-06-24 09:42:11.467149
+91	duel_deck	ddt	Duel Decks: Merfolk vs. Goblins		/img/expansion/ddt.jpg	2017-10-24	2021-06-24 09:42:11.416408	2021-06-24 09:42:11.467188
+92	box	g17	2017 Gift Pack		/img/expansion/g17.jpg	2017-10-20	2021-06-24 09:42:11.416518	2021-06-24 09:42:11.467224
+93	promo	pxln	Ixalan Promos		/img/expansion/pxln.jpg	2017-09-29	2021-06-24 09:42:11.416628	2021-06-24 09:42:11.467260
+94	expansion	xln	Ixalan		/img/expansion/xln.jpg	2017-09-29	2021-06-24 09:42:11.416740	2021-06-24 09:42:11.467295
+95	promo	pss2	XLN Standard Showdown		/img/expansion/pss2.jpg	2017-09-29	2021-06-24 09:42:11.416853	2021-06-24 09:42:11.467331
+96	commander	c17	Commander 2017		/img/expansion/c17.jpg	2017-08-25	2021-06-24 09:42:11.416964	2021-06-24 09:42:11.467366
+97	promo	ps17	San Diego Comic-Con 2017		/img/expansion/ps17.jpg	2017-07-20	2021-06-24 09:42:11.417075	2021-06-24 09:42:11.467402
+98	promo	phou	Hour of Devastation Promos		/img/expansion/phou.jpg	2017-07-14	2021-06-24 09:42:11.417186	2021-06-24 09:42:11.467438
+99	expansion	hou	Hour of Devastation		/img/expansion/hou.jpg	2017-07-14	2021-06-24 09:42:11.417296	2021-06-24 09:42:11.467473
+100	archenemy	oe01	Archenemy: Nicol Bolas Schemes		/img/expansion/oe01.jpg	2017-06-16	2021-06-24 09:42:11.417406	2021-06-24 09:42:11.467509
+101	archenemy	e01	Archenemy: Nicol Bolas		/img/expansion/e01.jpg	2017-06-16	2021-06-24 09:42:11.417516	2021-06-24 09:42:11.467544
+102	commander	cma	Commander Anthology		/img/expansion/cma.jpg	2017-06-09	2021-06-24 09:42:11.417626	2021-06-24 09:42:11.467594
+103	promo	pakh	Amonkhet Promos		/img/expansion/pakh.jpg	2017-04-28	2021-06-24 09:42:11.417737	2021-06-24 09:42:11.467632
+104	expansion	akh	Amonkhet		/img/expansion/akh.jpg	2017-04-28	2021-06-24 09:42:11.417853	2021-06-24 09:42:11.467669
+105	masterpiece	mp2	Amonkhet Invocations		/img/expansion/mp2.jpg	2017-04-28	2021-06-24 09:42:11.417980	2021-06-24 09:42:11.467705
+106	starter	w17	Welcome Deck 2017		/img/expansion/w17.jpg	2017-04-15	2021-06-24 09:42:11.418090	2021-06-24 09:42:11.467741
+107	duel_deck	dds	Duel Decks: Mind vs. Might		/img/expansion/dds.jpg	2017-03-31	2021-06-24 09:42:11.418199	2021-06-24 09:42:11.467777
+108	masters	mm3	Modern Masters 2017		/img/expansion/mm3.jpg	2017-03-17	2021-06-24 09:42:11.418311	2021-06-24 09:42:11.467816
+109	promo	paer	Aether Revolt Promos		/img/expansion/paer.jpg	2017-01-20	2021-06-24 09:42:11.418422	2021-06-24 09:42:11.467852
+110	expansion	aer	Aether Revolt		/img/expansion/aer.jpg	2017-01-20	2021-06-24 09:42:11.418532	2021-06-24 09:42:11.467888
+111	promo	f17	Friday Night Magic 2017		/img/expansion/f17.jpg	2017-01-01	2021-06-24 09:42:11.418643	2021-06-24 09:42:11.467925
+112	promo	j17	Judge Gift Cards 2017		/img/expansion/j17.jpg	2017-01-01	2021-06-24 09:42:11.418752	2021-06-24 09:42:11.467961
+113	planechase	pca	Planechase Anthology		/img/expansion/pca.jpg	2016-11-25	2021-06-24 09:42:11.418862	2021-06-24 09:42:11.467996
+114	commander	c16	Commander 2016		/img/expansion/c16.jpg	2016-11-11	2021-06-24 09:42:11.418972	2021-06-24 09:42:11.468032
+115	promo	ps16	San Diego Comic-Con 2016		/img/expansion/ps16.jpg	2016-10-01	2021-06-24 09:42:11.419081	2021-06-24 09:42:11.468068
+116	promo	pkld	Kaladesh Promos		/img/expansion/pkld.jpg	2016-09-30	2021-06-24 09:42:11.419190	2021-06-24 09:42:11.468104
+117	expansion	kld	Kaladesh		/img/expansion/kld.jpg	2016-09-30	2021-06-24 09:42:11.419301	2021-06-24 09:42:11.468140
+118	masterpiece	mps	Kaladesh Inventions		/img/expansion/mps.jpg	2016-09-30	2021-06-24 09:42:11.419410	2021-06-24 09:42:11.468175
+119	duel_deck	ddr	Duel Decks: Nissa vs. Ob Nixilis		/img/expansion/ddr.jpg	2016-09-02	2021-06-24 09:42:11.419519	2021-06-24 09:42:11.468211
+120	draft_innovation	cn2	Conspiracy: Take the Crown		/img/expansion/cn2.jpg	2016-08-26	2021-06-24 09:42:11.419649	2021-06-24 09:42:11.468247
+121	from_the_vault	v16	From the Vault: Lore		/img/expansion/v16.jpg	2016-08-19	2021-06-24 09:42:11.419762	2021-06-24 09:42:11.468283
+122	promo	pemn	Eldritch Moon Promos		/img/expansion/pemn.jpg	2016-07-22	2021-06-24 09:42:11.419872	2021-06-24 09:42:11.468318
+123	expansion	emn	Eldritch Moon		/img/expansion/emn.jpg	2016-07-22	2021-06-24 09:42:11.419982	2021-06-24 09:42:11.468354
+124	masters	ema	Eternal Masters		/img/expansion/ema.jpg	2016-06-10	2021-06-24 09:42:11.420092	2021-06-24 09:42:11.468389
+125	promo	psoi	Shadows over Innistrad Promos		/img/expansion/psoi.jpg	2016-04-08	2021-06-24 09:42:11.420202	2021-06-24 09:42:11.468424
+126	starter	w16	Welcome Deck 2016		/img/expansion/w16.jpg	2016-04-08	2021-06-24 09:42:11.420310	2021-06-24 09:42:11.468460
+127	expansion	soi	Shadows over Innistrad		/img/expansion/soi.jpg	2016-04-08	2021-06-24 09:42:11.420420	2021-06-24 09:42:11.468495
+128	duel_deck	ddq	Duel Decks: Blessed vs. Cursed		/img/expansion/ddq.jpg	2016-02-26	2021-06-24 09:42:11.420529	2021-06-24 09:42:11.468533
+129	expansion	ogw	Oath of the Gatewatch		/img/expansion/ogw.jpg	2016-01-22	2021-06-24 09:42:11.420640	2021-06-24 09:42:11.468570
+130	promo	pogw	Oath of the Gatewatch Promos		/img/expansion/pogw.jpg	2016-01-22	2021-06-24 09:42:11.420749	2021-06-24 09:42:11.468606
+131	promo	j16	Judge Gift Cards 2016		/img/expansion/j16.jpg	2016-01-01	2021-06-24 09:42:11.420859	2021-06-24 09:42:11.468642
+132	promo	f16	Friday Night Magic 2016		/img/expansion/f16.jpg	2016-01-01	2021-06-24 09:42:11.421077	2021-06-24 09:42:11.468689
+133	commander	c15	Commander 2015		/img/expansion/c15.jpg	2015-11-13	2021-06-24 09:42:11.421201	2021-06-24 09:42:11.468724
+134	expansion	bfz	Battle for Zendikar		/img/expansion/bfz.jpg	2015-10-02	2021-06-24 09:42:11.421314	2021-06-24 09:42:11.468757
+135	promo	pbfz	Battle for Zendikar Promos		/img/expansion/pbfz.jpg	2015-10-02	2021-06-24 09:42:11.421425	2021-06-24 09:42:11.468790
+136	promo	pss1	BFZ Standard Series		/img/expansion/pss1.jpg	2015-10-02	2021-06-24 09:42:11.421534	2021-06-24 09:42:11.468822
+137	masterpiece	exp	Zendikar Expeditions		/img/expansion/exp.jpg	2015-10-02	2021-06-24 09:42:11.421645	2021-06-24 09:42:11.468871
+138	duel_deck	ddp	Duel Decks: Zendikar vs. Eldrazi		/img/expansion/ddp.jpg	2015-08-28	2021-06-24 09:42:11.421763	2021-06-24 09:42:11.468909
+139	from_the_vault	v15	From the Vault: Angels		/img/expansion/v15.jpg	2015-08-21	2021-06-24 09:42:11.421873	2021-06-24 09:42:11.468957
+140	starter	cp3	Magic Origins Clash Pack		/img/expansion/cp3.jpg	2015-07-17	2021-06-24 09:42:11.421983	2021-06-24 09:42:11.468990
+141	promo	pori	Magic Origins Promos		/img/expansion/pori.jpg	2015-07-17	2021-06-24 09:42:11.422093	2021-06-24 09:42:11.469022
+142	core	ori	Magic Origins		/img/expansion/ori.jpg	2015-07-17	2021-06-24 09:42:11.422203	2021-06-24 09:42:11.469054
+143	promo	ps15	San Diego Comic-Con 2015		/img/expansion/ps15.jpg	2015-07-09	2021-06-24 09:42:11.422313	2021-06-24 09:42:11.469087
+144	masters	mm2	Modern Masters 2015		/img/expansion/mm2.jpg	2015-05-22	2021-06-24 09:42:11.422424	2021-06-24 09:42:11.469119
+145	promo	ptkdf	Tarkir Dragonfury		/img/expansion/ptkdf.jpg	2015-04-03	2021-06-24 09:42:11.422534	2021-06-24 09:42:11.469151
+146	promo	pdtk	Dragons of Tarkir Promos		/img/expansion/pdtk.jpg	2015-03-27	2021-06-24 09:42:11.422671	2021-06-24 09:42:11.469184
+147	expansion	dtk	Dragons of Tarkir		/img/expansion/dtk.jpg	2015-03-27	2021-06-24 09:42:11.422780	2021-06-24 09:42:11.469218
+148	duel_deck	ddo	Duel Decks: Elspeth vs. Kiora		/img/expansion/ddo.jpg	2015-02-27	2021-06-24 09:42:11.422890	2021-06-24 09:42:11.469250
+149	promo	pfrf	Fate Reforged Promos		/img/expansion/pfrf.jpg	2015-01-23	2021-06-24 09:42:11.422999	2021-06-24 09:42:11.469283
+150	starter	cp2	Fate Reforged Clash Pack		/img/expansion/cp2.jpg	2015-01-23	2021-06-24 09:42:11.423111	2021-06-24 09:42:11.469317
+151	expansion	frf	Fate Reforged		/img/expansion/frf.jpg	2015-01-23	2021-06-24 09:42:11.423222	2021-06-24 09:42:11.469349
+152	promo	ugin	Ugin's Fate		/img/expansion/ugin.jpg	2015-01-17	2021-06-24 09:42:11.423333	2021-06-24 09:42:11.469382
+153	promo	j15	Judge Gift Cards 2015		/img/expansion/j15.jpg	2015-01-01	2021-06-24 09:42:11.423444	2021-06-24 09:42:11.469415
+154	promo	f15	Friday Night Magic 2015		/img/expansion/f15.jpg	2015-01-01	2021-06-24 09:42:11.423553	2021-06-24 09:42:11.469447
+155	duel_deck	evg	Duel Decks Anthology: Elves vs. Goblins		/img/expansion/evg.jpg	2014-12-05	2021-06-24 09:42:11.423690	2021-06-24 09:42:11.469479
+156	duel_deck	gvl	Duel Decks Anthology: Garruk vs. Liliana		/img/expansion/gvl.jpg	2014-12-05	2021-06-24 09:42:11.423803	2021-06-24 09:42:11.469512
+157	duel_deck	jvc	Duel Decks Anthology: Jace vs. Chandra		/img/expansion/jvc.jpg	2014-12-05	2021-06-24 09:42:11.423913	2021-06-24 09:42:11.469545
+158	duel_deck	dvd	Duel Decks Anthology: Divine vs. Demonic		/img/expansion/dvd.jpg	2014-12-05	2021-06-24 09:42:11.424024	2021-06-24 09:42:11.469580
+159	commander	c14	Commander 2014		/img/expansion/c14.jpg	2014-11-07	2021-06-24 09:42:11.424133	2021-06-24 09:42:11.469612
+160	promo	pktk	Khans of Tarkir Promos		/img/expansion/pktk.jpg	2014-09-26	2021-06-24 09:42:11.424245	2021-06-24 09:42:11.469646
+161	expansion	ktk	Khans of Tarkir		/img/expansion/ktk.jpg	2014-09-26	2021-06-24 09:42:11.424354	2021-06-24 09:42:11.469679
+162	duel_deck	ddn	Duel Decks: Speed vs. Cunning		/img/expansion/ddn.jpg	2014-09-05	2021-06-24 09:42:11.424464	2021-06-24 09:42:11.469712
+163	from_the_vault	v14	From the Vault: Annihilation		/img/expansion/v14.jpg	2014-08-22	2021-06-24 09:42:11.424574	2021-06-24 09:42:11.469745
+164	core	m15	Magic 2015		/img/expansion/m15.jpg	2014-07-18	2021-06-24 09:42:11.424685	2021-06-24 09:42:11.469777
+165	starter	cp1	Magic 2015 Clash Pack		/img/expansion/cp1.jpg	2014-07-18	2021-06-24 09:42:11.424795	2021-06-24 09:42:11.469810
+166	promo	pm15	Magic 2015 Promos		/img/expansion/pm15.jpg	2014-07-17	2021-06-24 09:42:11.424904	2021-06-24 09:42:11.469842
+167	promo	ps14	San Diego Comic-Con 2014		/img/expansion/ps14.jpg	2014-07-08	2021-06-24 09:42:11.425015	2021-06-24 09:42:11.469875
+168	promo	pcns	Conspiracy Promos		/img/expansion/pcns.jpg	2014-06-06	2021-06-24 09:42:11.425125	2021-06-24 09:42:11.469907
+169	draft_innovation	cns	Conspiracy		/img/expansion/cns.jpg	2014-06-06	2021-06-24 09:42:11.425235	2021-06-24 09:42:11.469940
+170	box	md1	Modern Event Deck 2014		/img/expansion/md1.jpg	2014-05-30	2021-06-24 09:42:11.425345	2021-06-24 09:42:11.469972
+171	promo	thp3	Journey into Nyx Hero's Path		/img/expansion/thp3.jpg	2014-05-02	2021-06-24 09:42:11.425455	2021-06-24 09:42:11.470004
+172	expansion	jou	Journey into Nyx		/img/expansion/jou.jpg	2014-05-02	2021-06-24 09:42:11.425565	2021-06-24 09:42:11.470036
+173	promo	pjou	Journey into Nyx Promos		/img/expansion/pjou.jpg	2014-04-26	2021-06-24 09:42:11.425675	2021-06-24 09:42:11.470069
+174	duel_deck	ddm	Duel Decks: Jace vs. Vraska		/img/expansion/ddm.jpg	2014-03-14	2021-06-24 09:42:11.425785	2021-06-24 09:42:11.470101
+175	expansion	bng	Born of the Gods		/img/expansion/bng.jpg	2014-02-07	2021-06-24 09:42:11.426075	2021-06-24 09:42:11.470136
+176	promo	pbng	Born of the Gods Promos		/img/expansion/pbng.jpg	2014-02-01	2021-06-24 09:42:11.426204	2021-06-24 09:42:11.470169
+177	promo	pdp15	Duels of the Planeswalkers 2015 Promos 		/img/expansion/pdp15.jpg	2014-01-01	2021-06-24 09:42:11.426317	2021-06-24 09:42:11.470202
+178	promo	pi14	IDW Comics 2014		/img/expansion/pi14.jpg	2014-01-01	2021-06-24 09:42:11.426429	2021-06-24 09:42:11.470234
+179	promo	j14	Judge Gift Cards 2014		/img/expansion/j14.jpg	2014-01-01	2021-06-24 09:42:11.426540	2021-06-24 09:42:11.470267
+180	promo	f14	Friday Night Magic 2014		/img/expansion/f14.jpg	2014-01-01	2021-06-24 09:42:11.426651	2021-06-24 09:42:11.470299
+181	commander	c13	Commander 2013		/img/expansion/c13.jpg	2013-11-01	2021-06-24 09:42:11.426762	2021-06-24 09:42:11.470332
+182	expansion	ths	Theros		/img/expansion/ths.jpg	2013-09-27	2021-06-24 09:42:11.426873	2021-06-24 09:42:11.470365
+183	promo	pths	Theros Promos		/img/expansion/pths.jpg	2013-09-21	2021-06-24 09:42:11.426984	2021-06-24 09:42:11.470400
+184	duel_deck	ddl	Duel Decks: Heroes vs. Monsters		/img/expansion/ddl.jpg	2013-09-06	2021-06-24 09:42:11.427095	2021-06-24 09:42:11.470432
+185	from_the_vault	v13	From the Vault: Twenty		/img/expansion/v13.jpg	2013-08-23	2021-06-24 09:42:11.427206	2021-06-24 09:42:11.470465
+186	core	m14	Magic 2014		/img/expansion/m14.jpg	2013-07-19	2021-06-24 09:42:11.427315	2021-06-24 09:42:11.470497
+187	promo	pm14	Magic 2014 Promos		/img/expansion/pm14.jpg	2013-07-18	2021-06-24 09:42:11.427426	2021-06-24 09:42:11.470529
+188	promo	psdc	San Diego Comic-Con 2013		/img/expansion/psdc.jpg	2013-07-18	2021-06-24 09:42:11.427536	2021-06-24 09:42:11.470562
+189	masters	mma	Modern Masters		/img/expansion/mma.jpg	2013-06-07	2021-06-24 09:42:11.427667	2021-06-24 09:42:11.470595
+190	expansion	dgm	Dragon's Maze		/img/expansion/dgm.jpg	2013-05-03	2021-06-24 09:42:11.427779	2021-06-24 09:42:11.470627
+191	promo	pdgm	Dragon's Maze Promos		/img/expansion/pdgm.jpg	2013-04-27	2021-06-24 09:42:11.427889	2021-06-24 09:42:11.470660
+192	promo	pwcq	World Magic Cup Qualifiers		/img/expansion/pwcq.jpg	2013-04-06	2021-06-24 09:42:11.427999	2021-06-24 09:42:11.470692
+193	duel_deck	ddk	Duel Decks: Sorin vs. Tibalt		/img/expansion/ddk.jpg	2013-03-15	2021-06-24 09:42:11.428108	2021-06-24 09:42:11.470725
+194	expansion	gtc	Gatecrash		/img/expansion/gtc.jpg	2013-02-01	2021-06-24 09:42:11.428218	2021-06-24 09:42:11.470757
+195	promo	pgtc	Gatecrash Promos		/img/expansion/pgtc.jpg	2013-01-26	2021-06-24 09:42:11.428331	2021-06-24 09:42:11.470790
+196	promo	pdp14	Duels of the Planeswalkers 2014 Promos 		/img/expansion/pdp14.jpg	2013-01-01	2021-06-24 09:42:11.428446	2021-06-24 09:42:11.470822
+197	promo	pi13	IDW Comics 2013		/img/expansion/pi13.jpg	2013-01-01	2021-06-24 09:42:11.428549	2021-06-24 09:42:11.470855
+198	promo	j13	Judge Gift Cards 2013		/img/expansion/j13.jpg	2013-01-01	2021-06-24 09:42:11.428650	2021-06-24 09:42:11.470887
+199	promo	f13	Friday Night Magic 2013		/img/expansion/f13.jpg	2013-01-01	2021-06-24 09:42:11.428751	2021-06-24 09:42:11.470920
+200	commander	cm1	Commander's Arsenal		/img/expansion/cm1.jpg	2012-11-02	2021-06-24 09:42:11.428853	2021-06-24 09:42:11.470952
+201	expansion	rtr	Return to Ravnica		/img/expansion/rtr.jpg	2012-10-05	2021-06-24 09:42:11.428954	2021-06-24 09:42:11.470985
+202	promo	prtr	Return to Ravnica Promos		/img/expansion/prtr.jpg	2012-10-05	2021-06-24 09:42:11.429057	2021-06-24 09:42:11.471017
+203	duel_deck	ddj	Duel Decks: Izzet vs. Golgari		/img/expansion/ddj.jpg	2012-09-07	2021-06-24 09:42:11.429184	2021-06-24 09:42:11.471050
+204	from_the_vault	v12	From the Vault: Realms		/img/expansion/v12.jpg	2012-08-31	2021-06-24 09:42:11.429295	2021-06-24 09:42:11.471082
+205	core	m13	Magic 2013		/img/expansion/m13.jpg	2012-07-13	2021-06-24 09:42:11.429409	2021-06-24 09:42:11.471116
+206	promo	pm13	Magic 2013 Promos		/img/expansion/pm13.jpg	2012-07-12	2021-06-24 09:42:11.429521	2021-06-24 09:42:11.471149
+207	planechase	opc2	Planechase 2012 Planes		/img/expansion/opc2.jpg	2012-06-01	2021-06-24 09:42:11.429631	2021-06-24 09:42:11.471181
+208	planechase	pc2	Planechase 2012		/img/expansion/pc2.jpg	2012-06-01	2021-06-24 09:42:11.429741	2021-06-24 09:42:11.471217
+209	expansion	avr	Avacyn Restored		/img/expansion/avr.jpg	2012-05-04	2021-06-24 09:42:11.429849	2021-06-24 09:42:11.471250
+210	promo	phel	Open the Helvault		/img/expansion/phel.jpg	2012-04-28	2021-06-24 09:42:11.429957	2021-06-24 09:42:11.471282
+211	promo	pavr	Avacyn Restored Promos		/img/expansion/pavr.jpg	2012-04-28	2021-06-24 09:42:11.430065	2021-06-24 09:42:11.471314
+212	duel_deck	ddi	Duel Decks: Venser vs. Koth		/img/expansion/ddi.jpg	2012-03-30	2021-06-24 09:42:11.430173	2021-06-24 09:42:11.471346
+213	expansion	dka	Dark Ascension		/img/expansion/dka.jpg	2012-02-03	2021-06-24 09:42:11.430282	2021-06-24 09:42:11.471378
+214	promo	pdka	Dark Ascension Promos		/img/expansion/pdka.jpg	2012-01-28	2021-06-24 09:42:11.430390	2021-06-24 09:42:11.471410
+215	promo	pidw	IDW Comics 2012		/img/expansion/pidw.jpg	2012-01-01	2021-06-24 09:42:11.430499	2021-06-24 09:42:11.471442
+216	promo	pwp12	Wizards Play Network 2012		/img/expansion/pwp12.jpg	2012-01-01	2021-06-24 09:42:11.430609	2021-06-24 09:42:11.471474
+217	promo	pdp13	Duels of the Planeswalkers 2013 Promos 		/img/expansion/pdp13.jpg	2012-01-01	2021-06-24 09:42:11.430718	2021-06-24 09:42:11.471506
+218	promo	f12	Friday Night Magic 2012		/img/expansion/f12.jpg	2012-01-01	2021-06-24 09:42:11.430826	2021-06-24 09:42:11.471544
+219	promo	j12	Judge Gift Cards 2012		/img/expansion/j12.jpg	2012-01-01	2021-06-24 09:42:11.430935	2021-06-24 09:42:11.471586
+220	premium_deck	pd3	Premium Deck Series: Graveborn		/img/expansion/pd3.jpg	2011-11-18	2021-06-24 09:42:11.431044	2021-06-24 09:42:11.471621
+221	expansion	isd	Innistrad		/img/expansion/isd.jpg	2011-09-30	2021-06-24 09:42:11.431152	2021-06-24 09:42:11.471654
+222	promo	pisd	Innistrad Promos		/img/expansion/pisd.jpg	2011-09-24	2021-06-24 09:42:11.431260	2021-06-24 09:42:11.471687
+223	duel_deck	ddh	Duel Decks: Ajani vs. Nicol Bolas		/img/expansion/ddh.jpg	2011-09-02	2021-06-24 09:42:11.431369	2021-06-24 09:42:11.471741
+224	from_the_vault	v11	From the Vault: Legends		/img/expansion/v11.jpg	2011-08-26	2021-06-24 09:42:11.431484	2021-06-24 09:42:11.471776
+225	core	m12	Magic 2012		/img/expansion/m12.jpg	2011-07-15	2021-06-24 09:42:11.431609	2021-06-24 09:42:11.471812
+226	promo	pm12	Magic 2012 Promos		/img/expansion/pm12.jpg	2011-07-14	2021-06-24 09:42:11.431721	2021-06-24 09:42:11.471846
+227	commander	cmd	Commander 2011		/img/expansion/cmd.jpg	2011-06-17	2021-06-24 09:42:11.431831	2021-06-24 09:42:11.471881
+228	expansion	nph	New Phyrexia		/img/expansion/nph.jpg	2011-05-13	2021-06-24 09:42:11.431940	2021-06-24 09:42:11.471917
+229	promo	pnph	New Phyrexia Promos		/img/expansion/pnph.jpg	2011-05-12	2021-06-24 09:42:11.432049	2021-06-24 09:42:11.471952
+230	duel_deck	ddg	Duel Decks: Knights vs. Dragons		/img/expansion/ddg.jpg	2011-04-01	2021-06-24 09:42:11.432158	2021-06-24 09:42:11.471986
+231	expansion	mbs	Mirrodin Besieged		/img/expansion/mbs.jpg	2011-02-04	2021-06-24 09:42:11.432266	2021-06-24 09:42:11.472021
+232	promo	pmbs	Mirrodin Besieged Promos		/img/expansion/pmbs.jpg	2011-02-03	2021-06-24 09:42:11.432376	2021-06-24 09:42:11.472056
+233	promo	pmps11	Magic Premiere Shop 2011		/img/expansion/pmps11.jpg	2011-01-01	2021-06-24 09:42:11.432484	2021-06-24 09:42:11.472094
+234	promo	pdp12	Duels of the Planeswalkers 2012 Promos 		/img/expansion/pdp12.jpg	2011-01-01	2021-06-24 09:42:11.432594	2021-06-24 09:42:11.472129
+235	promo	pwp11	Wizards Play Network 2011		/img/expansion/pwp11.jpg	2011-01-01	2021-06-24 09:42:11.432706	2021-06-24 09:42:11.472165
+236	box	ps11	Salvat 2011		/img/expansion/ps11.jpg	2011-01-01	2021-06-24 09:42:11.432815	2021-06-24 09:42:11.472200
+237	promo	g11	Judge Gift Cards 2011		/img/expansion/g11.jpg	2011-01-01	2021-06-24 09:42:11.432925	2021-06-24 09:42:11.472235
+238	promo	p11	Magic Player Rewards 2011		/img/expansion/p11.jpg	2011-01-01	2021-06-24 09:42:11.433034	2021-06-24 09:42:11.472271
+239	promo	f11	Friday Night Magic 2011		/img/expansion/f11.jpg	2011-01-01	2021-06-24 09:42:11.433143	2021-06-24 09:42:11.472306
+240	premium_deck	pd2	Premium Deck Series: Fire and Lightning		/img/expansion/pd2.jpg	2010-11-19	2021-06-24 09:42:11.433252	2021-06-24 09:42:11.472341
+241	expansion	som	Scars of Mirrodin		/img/expansion/som.jpg	2010-10-01	2021-06-24 09:42:11.433361	2021-06-24 09:42:11.472377
+242	promo	psom	Scars of Mirrodin Promos		/img/expansion/psom.jpg	2010-09-30	2021-06-24 09:42:11.433471	2021-06-24 09:42:11.472413
+243	duel_deck	ddf	Duel Decks: Elspeth vs. Tezzeret		/img/expansion/ddf.jpg	2010-09-03	2021-06-24 09:42:11.433579	2021-06-24 09:42:11.472448
+244	from_the_vault	v10	From the Vault: Relics		/img/expansion/v10.jpg	2010-08-27	2021-06-24 09:42:11.433687	2021-06-24 09:42:11.472483
+245	core	m11	Magic 2011		/img/expansion/m11.jpg	2010-07-16	2021-06-24 09:42:11.433796	2021-06-24 09:42:11.472519
+246	promo	pm11	Magic 2011 Promos		/img/expansion/pm11.jpg	2010-07-15	2021-06-24 09:42:11.433905	2021-06-24 09:42:11.472554
+247	archenemy	oarc	Archenemy Schemes		/img/expansion/oarc.jpg	2010-06-18	2021-06-24 09:42:11.434015	2021-06-24 09:42:11.472589
+248	archenemy	arc	Archenemy		/img/expansion/arc.jpg	2010-06-18	2021-06-24 09:42:11.434124	2021-06-24 09:42:11.472625
+249	archenemy	parc	Promotional Schemes		/img/expansion/parc.jpg	2010-06-18	2021-06-24 09:42:11.434243	2021-06-24 09:42:11.472660
+250	box	dpa	Duels of the Planeswalkers		/img/expansion/dpa.jpg	2010-06-04	2021-06-24 09:42:11.434345	2021-06-24 09:42:11.472695
+251	promo	proe	Rise of the Eldrazi Promos		/img/expansion/proe.jpg	2010-04-23	2021-06-24 09:42:11.434446	2021-06-24 09:42:11.472731
+252	expansion	roe	Rise of the Eldrazi		/img/expansion/roe.jpg	2010-04-23	2021-06-24 09:42:11.434547	2021-06-24 09:42:11.472765
+253	duel_deck	dde	Duel Decks: Phyrexia vs. the Coalition		/img/expansion/dde.jpg	2010-03-19	2021-06-24 09:42:11.434648	2021-06-24 09:42:11.472801
+254	promo	pwwk	Worldwake Promos		/img/expansion/pwwk.jpg	2010-02-05	2021-06-24 09:42:11.434748	2021-06-24 09:42:11.472839
+255	expansion	wwk	Worldwake		/img/expansion/wwk.jpg	2010-02-05	2021-06-24 09:42:11.434849	2021-06-24 09:42:11.472874
+256	promo	pdp10	Duels of the Planeswalkers 2010 Promos 		/img/expansion/pdp10.jpg	2010-01-01	2021-06-24 09:42:11.434949	2021-06-24 09:42:11.472909
+257	promo	pwp10	Wizards Play Network 2010		/img/expansion/pwp10.jpg	2010-01-01	2021-06-24 09:42:11.435051	2021-06-24 09:42:11.472944
+258	promo	pmps10	Magic Premiere Shop 2010		/img/expansion/pmps10.jpg	2010-01-01	2021-06-24 09:42:11.435151	2021-06-24 09:42:11.472982
+259	promo	p10	Magic Player Rewards 2010		/img/expansion/p10.jpg	2010-01-01	2021-06-24 09:42:11.435252	2021-06-24 09:42:11.473021
+260	promo	f10	Friday Night Magic 2010		/img/expansion/f10.jpg	2010-01-01	2021-06-24 09:42:11.435353	2021-06-24 09:42:11.473056
+261	promo	g10	Judge Gift Cards 2010		/img/expansion/g10.jpg	2010-01-01	2021-06-24 09:42:11.435455	2021-06-24 09:42:11.473102
+262	premium_deck	h09	Premium Deck Series: Slivers		/img/expansion/h09.jpg	2009-11-20	2021-06-24 09:42:11.435555	2021-06-24 09:42:11.473134
+263	duel_deck	ddd	Duel Decks: Garruk vs. Liliana		/img/expansion/ddd.jpg	2009-10-30	2021-06-24 09:42:11.435673	2021-06-24 09:42:11.473166
+264	promo	pzen	Zendikar Promos		/img/expansion/pzen.jpg	2009-10-02	2021-06-24 09:42:11.435798	2021-06-24 09:42:11.473198
+265	expansion	zen	Zendikar		/img/expansion/zen.jpg	2009-10-02	2021-06-24 09:42:11.435906	2021-06-24 09:42:11.473230
+266	planechase	ohop	Planechase Planes		/img/expansion/ohop.jpg	2009-09-04	2021-06-24 09:42:11.436015	2021-06-24 09:42:11.473263
+267	planechase	hop	Planechase		/img/expansion/hop.jpg	2009-09-04	2021-06-24 09:42:11.436213	2021-06-24 09:42:11.473295
+268	promo	phop	Promotional Planes		/img/expansion/phop.jpg	2009-09-04	2021-06-24 09:42:11.436339	2021-06-24 09:42:11.473328
+269	from_the_vault	v09	From the Vault: Exiled		/img/expansion/v09.jpg	2009-08-28	2021-06-24 09:42:11.436450	2021-06-24 09:42:11.473360
+270	core	m10	Magic 2010		/img/expansion/m10.jpg	2009-07-17	2021-06-24 09:42:11.436561	2021-06-24 09:42:11.473393
+271	promo	pm10	Magic 2010 Promos		/img/expansion/pm10.jpg	2009-07-16	2021-06-24 09:42:11.436671	2021-06-24 09:42:11.473447
+272	promo	parb	Alara Reborn Promos		/img/expansion/parb.jpg	2009-04-30	2021-06-24 09:42:11.436781	2021-06-24 09:42:11.473482
+273	expansion	arb	Alara Reborn		/img/expansion/arb.jpg	2009-04-30	2021-06-24 09:42:11.436891	2021-06-24 09:42:11.473517
+274	duel_deck	ddc	Duel Decks: Divine vs. Demonic		/img/expansion/ddc.jpg	2009-04-10	2021-06-24 09:42:11.437001	2021-06-24 09:42:11.473552
+275	promo	purl	URL/Convention Promos		/img/expansion/purl.jpg	2009-02-08	2021-06-24 09:42:11.437110	2021-06-24 09:42:11.473587
+276	promo	pcon	Conflux Promos		/img/expansion/pcon.jpg	2009-02-06	2021-06-24 09:42:11.437219	2021-06-24 09:42:11.473621
+277	expansion	con	Conflux		/img/expansion/con.jpg	2009-02-06	2021-06-24 09:42:11.437327	2021-06-24 09:42:11.473656
+278	promo	pbook	Miscellaneous Book Promos		/img/expansion/pbook.jpg	2009-01-27	2021-06-24 09:42:11.437435	2021-06-24 09:42:11.473690
+279	promo	pwp09	Wizards Play Network 2009		/img/expansion/pwp09.jpg	2009-01-01	2021-06-24 09:42:11.437545	2021-06-24 09:42:11.473724
+280	promo	pdtp	Duels of the Planeswalkers 2009 Promos 		/img/expansion/pdtp.jpg	2009-01-01	2021-06-24 09:42:11.437655	2021-06-24 09:42:11.473759
+281	promo	pmps09	Magic Premiere Shop 2009		/img/expansion/pmps09.jpg	2009-01-01	2021-06-24 09:42:11.437764	2021-06-24 09:42:11.473794
+282	promo	g09	Judge Gift Cards 2009		/img/expansion/g09.jpg	2009-01-01	2021-06-24 09:42:11.437873	2021-06-24 09:42:11.473829
+283	promo	f09	Friday Night Magic 2009		/img/expansion/f09.jpg	2009-01-01	2021-06-24 09:42:11.437982	2021-06-24 09:42:11.473877
+284	promo	p09	Magic Player Rewards 2009		/img/expansion/p09.jpg	2009-01-01	2021-06-24 09:42:11.438092	2021-06-24 09:42:11.473913
+285	duel_deck	dd2	Duel Decks: Jace vs. Chandra		/img/expansion/dd2.jpg	2008-11-07	2021-06-24 09:42:11.438202	2021-06-24 09:42:11.473948
+286	promo	pala	Shards of Alara Promos		/img/expansion/pala.jpg	2008-10-03	2021-06-24 09:42:11.438310	2021-06-24 09:42:11.473983
+287	expansion	ala	Shards of Alara		/img/expansion/ala.jpg	2008-10-03	2021-06-24 09:42:11.438419	2021-06-24 09:42:11.474017
+288	promo	pwpn	Wizards Play Network 2008		/img/expansion/pwpn.jpg	2008-10-01	2021-06-24 09:42:11.438529	2021-06-24 09:42:11.474052
+289	from_the_vault	drb	From the Vault: Dragons		/img/expansion/drb.jpg	2008-08-29	2021-06-24 09:42:11.438639	2021-06-24 09:42:11.474087
+290	promo	peve	Eventide Promos		/img/expansion/peve.jpg	2008-07-25	2021-06-24 09:42:11.438749	2021-06-24 09:42:11.474122
+291	expansion	eve	Eventide		/img/expansion/eve.jpg	2008-07-25	2021-06-24 09:42:11.438859	2021-06-24 09:42:11.474157
+292	promo	pshm	Shadowmoor Promos		/img/expansion/pshm.jpg	2008-05-02	2021-06-24 09:42:11.438969	2021-06-24 09:42:11.474192
+293	expansion	shm	Shadowmoor		/img/expansion/shm.jpg	2008-05-02	2021-06-24 09:42:11.439078	2021-06-24 09:42:11.474227
+294	promo	p15a	15th Anniversary Cards		/img/expansion/p15a.jpg	2008-04-01	2021-06-24 09:42:11.439187	2021-06-24 09:42:11.474262
+295	promo	pmor	Morningtide Promos		/img/expansion/pmor.jpg	2008-02-01	2021-06-24 09:42:11.439296	2021-06-24 09:42:11.474297
+296	expansion	mor	Morningtide		/img/expansion/mor.jpg	2008-02-01	2021-06-24 09:42:11.439404	2021-06-24 09:42:11.474332
+297	promo	pmps08	Magic Premiere Shop 2008		/img/expansion/pmps08.jpg	2008-01-01	2021-06-24 09:42:11.439514	2021-06-24 09:42:11.474367
+298	promo	pg08	Gateway 2008		/img/expansion/pg08.jpg	2008-01-01	2021-06-24 09:42:11.439640	2021-06-24 09:42:11.474402
+299	promo	p08	Magic Player Rewards 2008		/img/expansion/p08.jpg	2008-01-01	2021-06-24 09:42:11.439751	2021-06-24 09:42:11.474437
+300	promo	g08	Judge Gift Cards 2008		/img/expansion/g08.jpg	2008-01-01	2021-06-24 09:42:11.439861	2021-06-24 09:42:11.474472
+301	promo	f08	Friday Night Magic 2008		/img/expansion/f08.jpg	2008-01-01	2021-06-24 09:42:11.439970	2021-06-24 09:42:11.474506
+302	duel_deck	dd1	Duel Decks: Elves vs. Goblins		/img/expansion/dd1.jpg	2007-11-16	2021-06-24 09:42:11.440079	2021-06-24 09:42:11.474541
+303	promo	plrw	Lorwyn Promos		/img/expansion/plrw.jpg	2007-10-12	2021-06-24 09:42:11.440187	2021-06-24 09:42:11.474575
+304	expansion	lrw	Lorwyn		/img/expansion/lrw.jpg	2007-10-12	2021-06-24 09:42:11.440296	2021-06-24 09:42:11.474610
+305	promo	psum	Summer of Magic		/img/expansion/psum.jpg	2007-07-21	2021-06-24 09:42:11.440404	2021-06-24 09:42:11.474645
+306	core	10e	Tenth Edition		/img/expansion/10e.jpg	2007-07-13	2021-06-24 09:42:11.440511	2021-06-24 09:42:11.474691
+307	promo	p10e	Tenth Edition Promos		/img/expansion/p10e.jpg	2007-07-13	2021-06-24 09:42:11.440620	2021-06-24 09:42:11.474724
+308	promo	pfut	Future Sight Promos		/img/expansion/pfut.jpg	2007-05-04	2021-06-24 09:42:11.440729	2021-06-24 09:42:11.474762
+309	expansion	fut	Future Sight		/img/expansion/fut.jpg	2007-05-04	2021-06-24 09:42:11.440837	2021-06-24 09:42:11.474794
+310	promo	pgpx	Grand Prix Promos		/img/expansion/pgpx.jpg	2007-02-24	2021-06-24 09:42:11.440947	2021-06-24 09:42:11.474826
+311	promo	ppro	Pro Tour Promos		/img/expansion/ppro.jpg	2007-02-09	2021-06-24 09:42:11.441057	2021-06-24 09:42:11.474859
+312	promo	pplc	Planar Chaos Promos		/img/expansion/pplc.jpg	2007-02-02	2021-06-24 09:42:11.441172	2021-06-24 09:42:11.474912
+313	expansion	plc	Planar Chaos		/img/expansion/plc.jpg	2007-02-02	2021-06-24 09:42:11.441280	2021-06-24 09:42:11.474947
+314	promo	pres	Resale Promos		/img/expansion/pres.jpg	2007-01-01	2021-06-24 09:42:11.441390	2021-06-24 09:42:11.474982
+315	promo	pg07	Gateway 2007		/img/expansion/pg07.jpg	2007-01-01	2021-06-24 09:42:11.441499	2021-06-24 09:42:11.475016
+316	promo	pmps07	Magic Premiere Shop 2007		/img/expansion/pmps07.jpg	2007-01-01	2021-06-24 09:42:11.441607	2021-06-24 09:42:11.475051
+317	promo	p07	Magic Player Rewards 2007		/img/expansion/p07.jpg	2007-01-01	2021-06-24 09:42:11.441716	2021-06-24 09:42:11.475085
+318	promo	f07	Friday Night Magic 2007		/img/expansion/f07.jpg	2007-01-01	2021-06-24 09:42:11.441824	2021-06-24 09:42:11.475120
+319	promo	g07	Judge Gift Cards 2007		/img/expansion/g07.jpg	2007-01-01	2021-06-24 09:42:11.441934	2021-06-24 09:42:11.475155
+320	promo	ptsp	Time Spiral Promos		/img/expansion/ptsp.jpg	2006-10-06	2021-06-24 09:42:11.442042	2021-06-24 09:42:11.475190
+321	expansion	tsb	Time Spiral Timeshifted		/img/expansion/tsb.jpg	2006-10-06	2021-06-24 09:42:11.442151	2021-06-24 09:42:11.475224
+322	expansion	tsp	Time Spiral		/img/expansion/tsp.jpg	2006-10-06	2021-06-24 09:42:11.442260	2021-06-24 09:42:11.475259
+323	promo	pcsp	Coldsnap Promos		/img/expansion/pcsp.jpg	2006-07-21	2021-06-24 09:42:11.442367	2021-06-24 09:42:11.475390
+324	box	cst	Coldsnap Theme Decks		/img/expansion/cst.jpg	2006-07-21	2021-06-24 09:42:11.442476	2021-06-24 09:42:11.475427
+325	expansion	csp	Coldsnap		/img/expansion/csp.jpg	2006-07-21	2021-06-24 09:42:11.442584	2021-06-24 09:42:11.475462
+326	promo	pdis	Dissension Promos		/img/expansion/pdis.jpg	2006-05-05	2021-06-24 09:42:11.442693	2021-06-24 09:42:11.475497
+327	expansion	dis	Dissension		/img/expansion/dis.jpg	2006-05-05	2021-06-24 09:42:11.442801	2021-06-24 09:42:11.475532
+328	promo	pcmp	Champs and States		/img/expansion/pcmp.jpg	2006-03-18	2021-06-24 09:42:11.442910	2021-06-24 09:42:11.475567
+329	promo	pgpt	Guildpact Promos		/img/expansion/pgpt.jpg	2006-02-03	2021-06-24 09:42:11.443019	2021-06-24 09:42:11.475615
+330	expansion	gpt	Guildpact		/img/expansion/gpt.jpg	2006-02-03	2021-06-24 09:42:11.443128	2021-06-24 09:42:11.475651
+331	promo	pal06	Arena League 2006		/img/expansion/pal06.jpg	2006-01-01	2021-06-24 09:42:11.443237	2021-06-24 09:42:11.475686
+332	promo	pmps06	Magic Premiere Shop 2006		/img/expansion/pmps06.jpg	2006-01-01	2021-06-24 09:42:11.443346	2021-06-24 09:42:11.475722
+333	promo	pjas	Junior APAC Series		/img/expansion/pjas.jpg	2006-01-01	2021-06-24 09:42:11.443455	2021-06-24 09:42:11.475759
+334	promo	pgtw	Gateway 2006		/img/expansion/pgtw.jpg	2006-01-01	2021-06-24 09:42:11.443563	2021-06-24 09:42:11.475795
+335	promo	f06	Friday Night Magic 2006		/img/expansion/f06.jpg	2006-01-01	2021-06-24 09:42:11.443704	2021-06-24 09:42:11.475830
+336	box	phuk	Hachette UK		/img/expansion/phuk.jpg	2006-01-01	2021-06-24 09:42:11.443814	2021-06-24 09:42:11.475865
+337	promo	g06	Judge Gift Cards 2006		/img/expansion/g06.jpg	2006-01-01	2021-06-24 09:42:11.443925	2021-06-24 09:42:11.475900
+338	promo	p06	Magic Player Rewards 2006		/img/expansion/p06.jpg	2006-01-01	2021-06-24 09:42:11.444045	2021-06-24 09:42:11.475935
+339	promo	p2hg	Two-Headed Giant Tournament		/img/expansion/p2hg.jpg	2005-12-09	2021-06-24 09:42:11.444155	2021-06-24 09:42:11.475970
+340	promo	prav	Ravnica: City of Guilds Promos		/img/expansion/prav.jpg	2005-10-07	2021-06-24 09:42:11.444263	2021-06-24 09:42:11.476006
+341	expansion	rav	Ravnica: City of Guilds		/img/expansion/rav.jpg	2005-10-07	2021-06-24 09:42:11.444373	2021-06-24 09:42:11.476052
+342	box	psal	Salvat 2005		/img/expansion/psal.jpg	2005-08-22	2021-06-24 09:42:11.444482	2021-06-24 09:42:11.476085
+343	promo	p9ed	Ninth Edition Promos		/img/expansion/p9ed.jpg	2005-07-29	2021-06-24 09:42:11.444591	2021-06-24 09:42:11.476121
+344	core	9ed	Ninth Edition		/img/expansion/9ed.jpg	2005-07-29	2021-06-24 09:42:11.444700	2021-06-24 09:42:11.476153
+345	promo	psok	Saviors of Kamigawa Promos		/img/expansion/psok.jpg	2005-06-03	2021-06-24 09:42:11.444809	2021-06-24 09:42:11.476185
+346	expansion	sok	Saviors of Kamigawa		/img/expansion/sok.jpg	2005-06-03	2021-06-24 09:42:11.444919	2021-06-24 09:42:11.476218
+347	promo	pbok	Betrayers of Kamigawa Promos		/img/expansion/pbok.jpg	2005-02-04	2021-06-24 09:42:11.445030	2021-06-24 09:42:11.476250
+348	expansion	bok	Betrayers of Kamigawa		/img/expansion/bok.jpg	2005-02-04	2021-06-24 09:42:11.445139	2021-06-24 09:42:11.476282
+349	promo	pmps	Magic Premiere Shop 2005		/img/expansion/pmps.jpg	2005-01-01	2021-06-24 09:42:11.445248	2021-06-24 09:42:11.476314
+350	promo	pal05	Arena League 2005		/img/expansion/pal05.jpg	2005-01-01	2021-06-24 09:42:11.445357	2021-06-24 09:42:11.476346
+351	promo	pjse	Junior Series Europe		/img/expansion/pjse.jpg	2005-01-01	2021-06-24 09:42:11.445466	2021-06-24 09:42:11.476378
+352	promo	g05	Judge Gift Cards 2005		/img/expansion/g05.jpg	2005-01-01	2021-06-24 09:42:11.445575	2021-06-24 09:42:11.476410
+353	promo	f05	Friday Night Magic 2005		/img/expansion/f05.jpg	2005-01-01	2021-06-24 09:42:11.445684	2021-06-24 09:42:11.476443
+354	promo	p05	Magic Player Rewards 2005		/img/expansion/p05.jpg	2005-01-01	2021-06-24 09:42:11.445792	2021-06-24 09:42:11.476475
+355	promo	punh	Unhinged Promos		/img/expansion/punh.jpg	2004-11-19	2021-06-24 09:42:11.445900	2021-06-24 09:42:11.476507
+356	funny	unh	Unhinged		/img/expansion/unh.jpg	2004-11-19	2021-06-24 09:42:11.446010	2021-06-24 09:42:11.476540
+357	promo	pchk	Champions of Kamigawa Promos		/img/expansion/pchk.jpg	2004-10-01	2021-06-24 09:42:11.446117	2021-06-24 09:42:11.476572
+358	expansion	chk	Champions of Kamigawa		/img/expansion/chk.jpg	2004-10-01	2021-06-24 09:42:11.446287	2021-06-24 09:42:11.476607
+359	promo	pdst	Darksteel Promos		/img/expansion/pdst.jpg	2004-06-04	2021-06-24 09:42:11.446494	2021-06-24 09:42:11.476639
+360	promo	p5dn	Fifth Dawn Promos		/img/expansion/p5dn.jpg	2004-06-04	2021-06-24 09:42:11.446610	2021-06-24 09:42:11.476671
+361	promo	pmrd	Mirrodin Promos		/img/expansion/pmrd.jpg	2004-06-04	2021-06-24 09:42:11.446722	2021-06-24 09:42:11.476703
+362	expansion	5dn	Fifth Dawn		/img/expansion/5dn.jpg	2004-06-04	2021-06-24 09:42:11.446912	2021-06-24 09:42:11.476833
+363	expansion	dst	Darksteel		/img/expansion/dst.jpg	2004-02-06	2021-06-24 09:42:11.447028	2021-06-24 09:42:11.476924
+364	promo	pal04	Arena League 2004		/img/expansion/pal04.jpg	2004-01-01	2021-06-24 09:42:11.447140	2021-06-24 09:42:11.476963
+365	promo	p04	Magic Player Rewards 2004		/img/expansion/p04.jpg	2004-01-01	2021-06-24 09:42:11.447251	2021-06-24 09:42:11.477000
+366	promo	g04	Judge Gift Cards 2004		/img/expansion/g04.jpg	2004-01-01	2021-06-24 09:42:11.447361	2021-06-24 09:42:11.477037
+367	promo	f04	Friday Night Magic 2004		/img/expansion/f04.jpg	2004-01-01	2021-06-24 09:42:11.447473	2021-06-24 09:42:11.477073
+368	expansion	mrd	Mirrodin		/img/expansion/mrd.jpg	2003-10-02	2021-06-24 09:42:11.447602	2021-06-24 09:42:11.477109
+369	promo	p8ed	Eighth Edition Promos		/img/expansion/p8ed.jpg	2003-07-28	2021-06-24 09:42:11.447716	2021-06-24 09:42:11.477145
+370	core	8ed	Eighth Edition		/img/expansion/8ed.jpg	2003-07-28	2021-06-24 09:42:11.447827	2021-06-24 09:42:11.477181
+371	promo	pscg	Scourge Promos		/img/expansion/pscg.jpg	2003-05-26	2021-06-24 09:42:11.447938	2021-06-24 09:42:11.477217
+372	expansion	scg	Scourge		/img/expansion/scg.jpg	2003-05-26	2021-06-24 09:42:11.448046	2021-06-24 09:42:11.477253
+373	promo	plgn	Legions Promos		/img/expansion/plgn.jpg	2003-02-03	2021-06-24 09:42:11.448156	2021-06-24 09:42:11.477289
+374	promo	pons	Onslaught Promos		/img/expansion/pons.jpg	2003-02-03	2021-06-24 09:42:11.448265	2021-06-24 09:42:11.477324
+375	expansion	lgn	Legions		/img/expansion/lgn.jpg	2003-02-03	2021-06-24 09:42:11.448376	2021-06-24 09:42:11.477360
+376	promo	pjjt	Japan Junior Tournament		/img/expansion/pjjt.jpg	2003-01-01	2021-06-24 09:42:11.448486	2021-06-24 09:42:11.477395
+377	promo	pal03	Arena League 2003		/img/expansion/pal03.jpg	2003-01-01	2021-06-24 09:42:11.448596	2021-06-24 09:42:11.477431
+378	promo	g03	Judge Gift Cards 2003		/img/expansion/g03.jpg	2003-01-01	2021-06-24 09:42:11.448706	2021-06-24 09:42:11.477466
+379	promo	f03	Friday Night Magic 2003		/img/expansion/f03.jpg	2003-01-01	2021-06-24 09:42:11.448818	2021-06-24 09:42:11.477502
+380	promo	p03	Magic Player Rewards 2003		/img/expansion/p03.jpg	2003-01-01	2021-06-24 09:42:11.448927	2021-06-24 09:42:11.477537
+381	expansion	ons	Onslaught		/img/expansion/ons.jpg	2002-10-07	2021-06-24 09:42:11.449038	2021-06-24 09:42:11.477573
+382	promo	phj	Hobby Japan Promos		/img/expansion/phj.jpg	2002-07-01	2021-06-24 09:42:11.449148	2021-06-24 09:42:11.477609
+383	promo	pjud	Judgment Promos		/img/expansion/pjud.jpg	2002-05-27	2021-06-24 09:42:11.449259	2021-06-24 09:42:11.477649
+384	expansion	jud	Judgment		/img/expansion/jud.jpg	2002-05-27	2021-06-24 09:42:11.449370	2021-06-24 09:42:11.477685
+385	promo	ptor	Torment Promos		/img/expansion/ptor.jpg	2002-02-04	2021-06-24 09:42:11.449479	2021-06-24 09:42:11.477721
+386	expansion	tor	Torment		/img/expansion/tor.jpg	2002-02-04	2021-06-24 09:42:11.449588	2021-06-24 09:42:11.477756
+387	promo	pal02	Arena League 2002		/img/expansion/pal02.jpg	2002-01-01	2021-06-24 09:42:11.449696	2021-06-24 09:42:11.477792
+388	promo	pr2	Magic Player Rewards 2002		/img/expansion/pr2.jpg	2002-01-01	2021-06-24 09:42:11.449807	2021-06-24 09:42:11.477827
+389	promo	g02	Judge Gift Cards 2002		/img/expansion/g02.jpg	2002-01-01	2021-06-24 09:42:11.449915	2021-06-24 09:42:11.477863
+390	promo	f02	Friday Night Magic 2002		/img/expansion/f02.jpg	2002-01-01	2021-06-24 09:42:11.450024	2021-06-24 09:42:11.477898
+391	box	dkm	Deckmasters		/img/expansion/dkm.jpg	2001-12-01	2021-06-24 09:42:11.450133	2021-06-24 09:42:11.477934
+392	promo	pody	Odyssey Promos		/img/expansion/pody.jpg	2001-10-01	2021-06-24 09:42:11.450242	2021-06-24 09:42:11.477969
+393	expansion	ody	Odyssey		/img/expansion/ody.jpg	2001-10-01	2021-06-24 09:42:11.450350	2021-06-24 09:42:11.478005
+394	promo	papc	Apocalypse Promos		/img/expansion/papc.jpg	2001-06-04	2021-06-24 09:42:11.450458	2021-06-24 09:42:11.478040
+395	expansion	apc	Apocalypse		/img/expansion/apc.jpg	2001-06-04	2021-06-24 09:42:11.450568	2021-06-24 09:42:11.478076
+396	core	7ed	Seventh Edition		/img/expansion/7ed.jpg	2001-04-11	2021-06-24 09:42:11.450676	2021-06-24 09:42:11.478112
+397	promo	ppls	Planeshift Promos		/img/expansion/ppls.jpg	2001-02-05	2021-06-24 09:42:11.450788	2021-06-24 09:42:11.478147
+398	expansion	pls	Planeshift		/img/expansion/pls.jpg	2001-02-05	2021-06-24 09:42:11.450905	2021-06-24 09:42:11.478183
+399	promo	pal01	Arena League 2001		/img/expansion/pal01.jpg	2001-01-01	2021-06-24 09:42:11.451014	2021-06-24 09:42:11.478218
+400	promo	f01	Friday Night Magic 2001		/img/expansion/f01.jpg	2001-01-01	2021-06-24 09:42:11.451124	2021-06-24 09:42:11.478254
+401	promo	mpr	Magic Player Rewards 2001		/img/expansion/mpr.jpg	2001-01-01	2021-06-24 09:42:11.451233	2021-06-24 09:42:11.478289
+402	promo	g01	Judge Gift Cards 2001		/img/expansion/g01.jpg	2001-01-01	2021-06-24 09:42:11.451343	2021-06-24 09:42:11.478325
+403	promo	pinv	Invasion Promos		/img/expansion/pinv.jpg	2000-10-02	2021-06-24 09:42:11.451453	2021-06-24 09:42:11.478361
+404	expansion	inv	Invasion		/img/expansion/inv.jpg	2000-10-02	2021-06-24 09:42:11.451563	2021-06-24 09:42:11.478396
+405	box	btd	Beatdown Box Set		/img/expansion/btd.jpg	2000-10-01	2021-06-24 09:42:11.451688	2021-06-24 09:42:11.478432
+406	promo	ppcy	Prophecy Promos		/img/expansion/ppcy.jpg	2000-06-05	2021-06-24 09:42:11.451798	2021-06-24 09:42:11.478467
+407	expansion	pcy	Prophecy		/img/expansion/pcy.jpg	2000-06-05	2021-06-24 09:42:11.451910	2021-06-24 09:42:11.478503
+408	starter	s00	Starter 2000		/img/expansion/s00.jpg	2000-04-01	2021-06-24 09:42:11.452019	2021-06-24 09:42:11.478543
+409	promo	pnem	Nemesis Promos		/img/expansion/pnem.jpg	2000-02-14	2021-06-24 09:42:11.452128	2021-06-24 09:42:11.478578
+410	expansion	nem	Nemesis		/img/expansion/nem.jpg	2000-02-14	2021-06-24 09:42:11.452238	2021-06-24 09:42:11.478614
+411	promo	pelp	European Land Program		/img/expansion/pelp.jpg	2000-02-05	2021-06-24 09:42:11.452347	2021-06-24 09:42:11.478649
+412	promo	pal00	Arena League 2000		/img/expansion/pal00.jpg	2000-01-01	2021-06-24 09:42:11.452456	2021-06-24 09:42:11.478685
+413	promo	g00	Judge Gift Cards 2000		/img/expansion/g00.jpg	2000-01-01	2021-06-24 09:42:11.452565	2021-06-24 09:42:11.478721
+414	promo	fnm	Friday Night Magic 2000		/img/expansion/fnm.jpg	2000-01-01	2021-06-24 09:42:11.452675	2021-06-24 09:42:11.478757
+415	promo	psus	Junior Super Series		/img/expansion/psus.jpg	1999-12-01	2021-06-24 09:42:11.452783	2021-06-24 09:42:11.478792
+416	box	brb	Battle Royale Box Set		/img/expansion/brb.jpg	1999-11-12	2021-06-24 09:42:11.452893	2021-06-24 09:42:11.478827
+417	promo	pmmq	Mercadian Masques Promos		/img/expansion/pmmq.jpg	1999-10-04	2021-06-24 09:42:11.453001	2021-06-24 09:42:11.478862
+418	expansion	mmq	Mercadian Masques		/img/expansion/mmq.jpg	1999-10-04	2021-06-24 09:42:11.453110	2021-06-24 09:42:11.478897
+419	promo	pwos	Wizards of the Coast Online Store		/img/expansion/pwos.jpg	1999-09-04	2021-06-24 09:42:11.453218	2021-06-24 09:42:11.478933
+420	promo	pwor	World Championship Promos		/img/expansion/pwor.jpg	1999-08-04	2021-06-24 09:42:11.453328	2021-06-24 09:42:11.478969
+421	promo	pgru	Guru		/img/expansion/pgru.jpg	1999-07-12	2021-06-24 09:42:11.453437	2021-06-24 09:42:11.479004
+422	starter	ptk	Portal Three Kingdoms		/img/expansion/ptk.jpg	1999-07-06	2021-06-24 09:42:11.453545	2021-06-24 09:42:11.479040
+423	promo	pptk	Portal: Three Kingdoms Promos		/img/expansion/pptk.jpg	1999-07-01	2021-06-24 09:42:11.453654	2021-06-24 09:42:11.479075
+424	starter	s99	Starter 1999		/img/expansion/s99.jpg	1999-07-01	2021-06-24 09:42:11.453941	2021-06-24 09:42:11.479110
+425	promo	puds	Urza's Destiny Promos		/img/expansion/puds.jpg	1999-06-07	2021-06-24 09:42:11.454065	2021-06-24 09:42:11.479145
+426	expansion	uds	Urza's Destiny		/img/expansion/uds.jpg	1999-06-07	2021-06-24 09:42:11.454176	2021-06-24 09:42:11.479181
+427	core	6ed	Classic Sixth Edition		/img/expansion/6ed.jpg	1999-04-21	2021-06-24 09:42:11.454287	2021-06-24 09:42:11.479219
+428	promo	pulg	Urza's Legacy Promos		/img/expansion/pulg.jpg	1999-02-15	2021-06-24 09:42:11.454398	2021-06-24 09:42:11.479254
+429	expansion	ulg	Urza's Legacy		/img/expansion/ulg.jpg	1999-02-15	2021-06-24 09:42:11.454508	2021-06-24 09:42:11.479290
+430	promo	pal99	Arena League 1999		/img/expansion/pal99.jpg	1999-01-01	2021-06-24 09:42:11.454619	2021-06-24 09:42:11.479325
+431	promo	g99	Judge Gift Cards 1999		/img/expansion/g99.jpg	1999-01-01	2021-06-24 09:42:11.454739	2021-06-24 09:42:11.479360
+432	box	ath	Anthologies		/img/expansion/ath.jpg	1998-11-01	2021-06-24 09:42:11.454850	2021-06-24 09:42:11.479396
+433	promo	pusg	Urza's Saga Promos		/img/expansion/pusg.jpg	1998-10-12	2021-06-24 09:42:11.454961	2021-06-24 09:42:11.479433
+434	expansion	usg	Urza's Saga		/img/expansion/usg.jpg	1998-10-12	2021-06-24 09:42:11.455071	2021-06-24 09:42:11.479468
+435	promo	palp	Asia Pacific Land Program		/img/expansion/palp.jpg	1998-09-01	2021-06-24 09:42:11.455185	2021-06-24 09:42:11.479503
+436	funny	ugl	Unglued		/img/expansion/ugl.jpg	1998-08-11	2021-06-24 09:42:11.455293	2021-06-24 09:42:11.479538
+437	starter	p02	Portal Second Age		/img/expansion/p02.jpg	1998-06-24	2021-06-24 09:42:11.455402	2021-06-24 09:42:11.479574
+438	promo	pexo	Exodus Promos		/img/expansion/pexo.jpg	1998-06-15	2021-06-24 09:42:11.455512	2021-06-24 09:42:11.479623
+439	expansion	exo	Exodus		/img/expansion/exo.jpg	1998-06-15	2021-06-24 09:42:11.455641	2021-06-24 09:42:11.479659
+440	promo	psth	Stronghold Promos		/img/expansion/psth.jpg	1998-03-02	2021-06-24 09:42:11.455752	2021-06-24 09:42:11.479694
+441	expansion	sth	Stronghold		/img/expansion/sth.jpg	1998-03-02	2021-06-24 09:42:11.455862	2021-06-24 09:42:11.479729
+442	promo	jgp	Judge Gift Cards 1998		/img/expansion/jgp.jpg	1998-01-01	2021-06-24 09:42:11.455971	2021-06-24 09:42:11.479764
+443	promo	ptmp	Tempest Promos		/img/expansion/ptmp.jpg	1997-10-14	2021-06-24 09:42:11.456081	2021-06-24 09:42:11.479799
+444	expansion	tmp	Tempest		/img/expansion/tmp.jpg	1997-10-14	2021-06-24 09:42:11.456191	2021-06-24 09:42:11.479834
+445	expansion	wth	Weatherlight		/img/expansion/wth.jpg	1997-06-09	2021-06-24 09:42:11.456301	2021-06-24 09:42:11.479868
+446	starter	por	Portal		/img/expansion/por.jpg	1997-05-01	2021-06-24 09:42:11.456484	2021-06-24 09:42:11.479903
+447	starter	ppod	Portal Demo Game		/img/expansion/ppod.jpg	1997-05-01	2021-06-24 09:42:11.456613	2021-06-24 09:42:11.479938
+448	core	5ed	Fifth Edition		/img/expansion/5ed.jpg	1997-03-24	2021-06-24 09:42:11.456726	2021-06-24 09:42:11.479973
+449	expansion	vis	Visions		/img/expansion/vis.jpg	1997-02-03	2021-06-24 09:42:11.456837	2021-06-24 09:42:11.480008
+450	starter	itp	Introductory Two-Player Set		/img/expansion/itp.jpg	1996-12-31	2021-06-24 09:42:11.456947	2021-06-24 09:42:11.480043
+451	box	mgb	Multiverse Gift Box		/img/expansion/mgb.jpg	1996-11-01	2021-06-24 09:42:11.457056	2021-06-24 09:42:11.480078
+452	expansion	mir	Mirage		/img/expansion/mir.jpg	1996-10-08	2021-06-24 09:42:11.457166	2021-06-24 09:42:11.480113
+453	promo	pred	Redemption Program		/img/expansion/pred.jpg	1996-10-01	2021-06-24 09:42:11.457276	2021-06-24 09:42:11.480148
+454	promo	parl	Arena League 1996		/img/expansion/parl.jpg	1996-08-02	2021-06-24 09:42:11.457387	2021-06-24 09:42:11.480183
+455	box	rqs	Rivals Quick Start Set		/img/expansion/rqs.jpg	1996-07-01	2021-06-24 09:42:11.457498	2021-06-24 09:42:11.480218
+456	expansion	all	Alliances		/img/expansion/all.jpg	1996-06-10	2021-06-24 09:42:11.457611	2021-06-24 09:42:11.480253
+457	expansion	hml	Homelands		/img/expansion/hml.jpg	1995-10-01	2021-06-24 09:42:11.457721	2021-06-24 09:42:11.480289
+458	masters	ren	Renaissance		/img/expansion/ren.jpg	1995-08-01	2021-06-24 09:42:11.457832	2021-06-24 09:42:11.480327
+459	masters	rin	Rinascimento		/img/expansion/rin.jpg	1995-08-01	2021-06-24 09:42:11.457951	2021-06-24 09:42:11.480362
+460	masters	chr	Chronicles		/img/expansion/chr.jpg	1995-07-01	2021-06-24 09:42:11.458065	2021-06-24 09:42:11.480397
+461	expansion	ice	Ice Age		/img/expansion/ice.jpg	1995-06-03	2021-06-24 09:42:11.458175	2021-06-24 09:42:11.480432
+462	core	4bb	Fourth Edition Foreign Black Border		/img/expansion/4bb.jpg	1995-04-01	2021-06-24 09:42:11.458284	2021-06-24 09:42:11.480467
+463	core	4ed	Fourth Edition		/img/expansion/4ed.jpg	1995-04-01	2021-06-24 09:42:11.458461	2021-06-24 09:42:11.480502
+464	promo	pmei	Magazine Inserts		/img/expansion/pmei.jpg	1995-01-01	2021-06-24 09:42:11.458582	2021-06-24 09:42:11.480539
+465	promo	plgm	DCI Legend Membership		/img/expansion/plgm.jpg	1995-01-01	2021-06-24 09:42:11.458693	2021-06-24 09:42:11.480574
+466	expansion	fem	Fallen Empires		/img/expansion/fem.jpg	1994-11-01	2021-06-24 09:42:11.458804	2021-06-24 09:42:11.480610
+467	promo	phpr	HarperPrism Book Promos		/img/expansion/phpr.jpg	1994-09-01	2021-06-24 09:42:11.458914	2021-06-24 09:42:11.480645
+468	expansion	drk	The Dark		/img/expansion/drk.jpg	1994-08-01	2021-06-24 09:42:11.459024	2021-06-24 09:42:11.480679
+469	promo	pdrc	Dragon Con		/img/expansion/pdrc.jpg	1994-07-15	2021-06-24 09:42:11.459134	2021-06-24 09:42:11.480714
+470	core	sum	Summer Magic / Edgar		/img/expansion/sum.jpg	1994-06-21	2021-06-24 09:42:11.459243	2021-06-24 09:42:11.480750
+471	expansion	leg	Legends		/img/expansion/leg.jpg	1994-06-01	2021-06-24 09:42:11.459472	2021-06-24 09:42:11.480785
+472	core	3ed	Revised Edition		/img/expansion/3ed.jpg	1994-04-01	2021-06-24 09:42:11.459698	2021-06-24 09:42:11.480820
+473	core	fbb	Foreign Black Border		/img/expansion/fbb.jpg	1994-04-01	2021-06-24 09:42:11.459836	2021-06-24 09:42:11.480855
+474	expansion	atq	Antiquities		/img/expansion/atq.jpg	1994-03-04	2021-06-24 09:42:11.459949	2021-06-24 09:42:11.480890
+475	expansion	arn	Arabian Nights		/img/expansion/arn.jpg	1993-12-17	2021-06-24 09:42:11.460059	2021-06-24 09:42:11.480925
+476	core	2ed	Unlimited Edition		/img/expansion/2ed.jpg	1993-12-01	2021-06-24 09:42:11.460170	2021-06-24 09:42:11.480960
+477	core	leb	Limited Edition Beta		/img/expansion/leb.jpg	1993-10-04	2021-06-24 09:42:11.460279	2021-06-24 09:42:11.480995
+478	core	lea	Limited Edition Alpha		/img/expansion/lea.jpg	1993-08-05	2021-06-24 09:42:11.460389	2021-06-24 09:42:11.481031
